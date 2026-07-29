@@ -1,0 +1,15 @@
+Create a web page for website loading information:
+
+Text:
+	Heade:
+		Iran Expo Net
+		Connecting you with Iran’s most reliable, export-ready manufacturers
+
+	Paragraph:
+		How We Help You Do Business with Iran:
+
+		1. We Connect You with Trusted Manufacturers.
+		We carefully evaluate manufacturers for their production capacity, quality standards, and export experience, then connect you with reliable partners that match your sourcing needs.
+
+		2. We Secure Your Payments:
+		We protect your payments throughout the transaction with secure payment solutions and effective risk management for international trade.
